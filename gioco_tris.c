@@ -12,7 +12,6 @@ char matrice[7][7] = {    //creazione della matrice
 };
 
 void stampa_menu(){    //funzione che stampa il menù di gioco
-    system("clear");
     printf("----------Gioco del Tris---------\n");
     printf("Inserisci 1 per iniziare una partita\n");
     printf("Inserisci 0 per uscire dal gioco.\n");
